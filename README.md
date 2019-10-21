@@ -1,3 +1,3 @@
 # Algothon-BlackRock-2019
 
-Risk-premia enhanced with graph-theory, tensors and XGBoost
+Risk-premia strategies enhanced with graph-theory, tensors and XGBoost
